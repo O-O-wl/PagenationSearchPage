@@ -1,5 +1,3 @@
-# PagenationSearchPage #
-
 ## 초기화면 ##
 <img width="1079" alt="2018-11-14 9 17 04" src="https://user-images.githubusercontent.com/39197978/48482830-1101e080-e855-11e8-906c-b67abc58e671.png">
 
@@ -17,7 +15,7 @@
 
 ## 수정후 조회 ## 
 
-<img width="1680" alt="2018-11-14 9 20 43" src="https://user-images.githubusercontent.com/39197978/48482921-58886c80-e855-11e8-84b3-ea93fad76360.png">
+<img width="873" alt="2018-11-14 9 20 49" src="https://user-images.githubusercontent.com/39197978/48483038-a69d7000-e855-11e8-9f12-a1185a89de8b.png">
 
 ## 수정후 mysql 조회 ## 
 <img width="821" alt="2018-11-14 9 34 05" src="https://user-images.githubusercontent.com/39197978/48482941-65a55b80-e855-11e8-9ded-eb252041e13d.png">
